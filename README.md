@@ -6,6 +6,9 @@ With this repo you can launch an airflow service for your team in AWS through te
 
 ## Instructions
 
+You need a vpc id and subnet id for the ec2 instance as input for the terraform process
+Put your ids on the `terraform.tfvars` file
+
 ```
 cd infrastructre
 terraform init 
