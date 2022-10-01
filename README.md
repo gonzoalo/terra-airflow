@@ -32,6 +32,9 @@ terraform apply
 
 After everything is runnig you can check your public ip and see how the magic of terraform is done.
 
+![bucket](img/bucket.png)
+
+![webserver](img/webserver.png)
 
 ## What else can be done?
 
