@@ -1,4 +1,6 @@
 # Variables for external resources used throughout data sources
 
-vpc_id              = "subnet-611d4a2b"
-public_subnet_a_id  = "vpc-2e3beb54"
+AWS_ACCESS_KEY        = "<AWS_ACCESS_KEY>"
+AWS_SECRET_ACCESS_KEY = "<AWS_SECRET_ACCESS_KEY>"
+public_subnet_a_id    = "<public_subnet_a_id>"
+vpc_id                = "<vpc_id>"
